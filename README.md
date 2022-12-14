@@ -123,7 +123,7 @@ It recommmonds building the project before running tests so that you have artifa
 
 ## Contributing
 
-See [CONTRIBUTING](https://github.com/etcd-io/jetcd/blob/master/CONTRIBUTING.md) for details on submitting patches and the contribution workflow.
+See [CONTRIBUTING](https://github.com/etcd-io/jetcd/blob/master/CONTRIBUTING.md) for detail on submitting patches and the contribution workflow.
 
 ## License
 
